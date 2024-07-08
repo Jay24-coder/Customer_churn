@@ -1,9 +1,9 @@
 # Customer_churn
 
-## Problem Statement
+### Problem Statement
 To analyze the data of a company and finding insights and stop customers from churning out to other telecom companies.
 
-## Tasks Performed
+### Tasks Performed
 1. Data Manipulation
 2. Data Visualization
 3. Linear Regression model
